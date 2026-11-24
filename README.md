@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">สวัสดีครับ/ค่ะ, ผมชื่อ BadinbT 👋</h1>
+<h1 align="center">สวัสดีครับ ผมชื่อBadinbT 👋</h1>
 <h3 align="center">Software Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
